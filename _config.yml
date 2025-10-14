@@ -13,6 +13,7 @@ name: Fabien Marissel
 email: fabien.marissel@f12lconseil.dev
 website: https://fmarissel.github.io
 
+about_title: À propos de moi
 about_profile_image: images/f12lconseil_logo_blanc.png
 about_content: | # this will include new lines to allow paragraphs
   Tech Lead et Développeur Back-end freelance avec plus de 10 ans d'expérience, spécialisé dans la conception et la réalisation d'applications Java performantes et scalables en environnement Cloud.
@@ -50,7 +51,7 @@ content:
 
       **Architecture :** Microservices, API REST, Intégration continue / Déploiement continu (CI/CD)
 
-  - title: Expérience
+  - title: Expériences
     layout: list
     content:
       - layout: left
